@@ -1,10 +1,6 @@
 # llm-security-gateway
 An AI security gateway that protects LLM applications and AI agents through prompt injection detection, output security analysis, risk-based policy enforcement, and tool/action guardrails.
 
-
-
-A cybersecurity project designed to protect **LLM applications and AI agents** from malicious prompts, unsafe outputs, and unauthorized actions.
-
 ## What is it?
 
 **LLM Security Gateway** acts as a security layer between users, LLMs, and AI agents.
