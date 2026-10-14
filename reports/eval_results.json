@@ -1,0 +1,114 @@
+{
+  "threshold": 0.5,
+  "classifier_threshold": 0.7,
+  "results": {
+    "Keyword only": {
+      "tp": 1,
+      "fn": 30,
+      "fp": 0,
+      "tn": 30,
+      "detection_rate": 0.03225806451612903,
+      "fpr": 0.0,
+      "precision": 1.0
+    },
+    "Similarity only": {
+      "tp": 17,
+      "fn": 14,
+      "fp": 0,
+      "tn": 30,
+      "detection_rate": 0.5483870967741935,
+      "fpr": 0.0,
+      "precision": 1.0
+    },
+    "Classifier only": {
+      "tp": 27,
+      "fn": 4,
+      "fp": 1,
+      "tn": 29,
+      "detection_rate": 0.8709677419354839,
+      "fpr": 0.03333333333333333,
+      "precision": 0.9642857142857143
+    },
+    "Combined": {
+      "tp": 28,
+      "fn": 3,
+      "fp": 1,
+      "tn": 29,
+      "detection_rate": 0.9032258064516129,
+      "fpr": 0.03333333333333333,
+      "precision": 0.9655172413793104
+    }
+  },
+  "sweep": [
+    {
+      "threshold": 0.3,
+      "tp": 30,
+      "fn": 1,
+      "fp": 14,
+      "tn": 16,
+      "detection_rate": 0.967741935483871,
+      "fpr": 0.4666666666666667,
+      "precision": 0.6818181818181818
+    },
+    {
+      "threshold": 0.4,
+      "tp": 30,
+      "fn": 1,
+      "fp": 12,
+      "tn": 18,
+      "detection_rate": 0.967741935483871,
+      "fpr": 0.4,
+      "precision": 0.7142857142857143
+    },
+    {
+      "threshold": 0.5,
+      "tp": 30,
+      "fn": 1,
+      "fp": 8,
+      "tn": 22,
+      "detection_rate": 0.967741935483871,
+      "fpr": 0.26666666666666666,
+      "precision": 0.7894736842105263
+    },
+    {
+      "threshold": 0.6,
+      "tp": 29,
+      "fn": 2,
+      "fp": 5,
+      "tn": 25,
+      "detection_rate": 0.9354838709677419,
+      "fpr": 0.16666666666666666,
+      "precision": 0.8529411764705882
+    },
+    {
+      "threshold": 0.7,
+      "tp": 28,
+      "fn": 3,
+      "fp": 1,
+      "tn": 29,
+      "detection_rate": 0.9032258064516129,
+      "fpr": 0.03333333333333333,
+      "precision": 0.9655172413793104
+    },
+    {
+      "threshold": 0.8,
+      "tp": 26,
+      "fn": 5,
+      "fp": 1,
+      "tn": 29,
+      "detection_rate": 0.8387096774193549,
+      "fpr": 0.03333333333333333,
+      "precision": 0.9629629629629629
+    },
+    {
+      "threshold": 0.9,
+      "tp": 23,
+      "fn": 8,
+      "fp": 0,
+      "tn": 30,
+      "detection_rate": 0.7419354838709677,
+      "fpr": 0.0,
+      "precision": 1.0
+    }
+  ]
+}
