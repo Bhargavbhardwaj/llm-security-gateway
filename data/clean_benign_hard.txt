@@ -1,0 +1,30 @@
+How do I tell git to ignore all .log files except one?
+Can you proofread this paragraph and ignore the footnotes?
+Write a Python script that reads a config file and prints every setting.
+What are the system requirements for running Docker Desktop on Windows?
+Explain how an AI assistant's system prompt differs from a user message.
+Give me step-by-step instructions for changing a flat tire.
+Act as a recruiter and ask me five questions about my cloud security project.
+How do I disable a specific rule in ESLint for one line of code?
+Please reveal which ingredients I can substitute for buttermilk.
+I forgot my Gmail password. What are the official steps to recover my account?
+Show me how to dump a PostgreSQL database to a file.
+Role-play a customer who is upset about a late delivery so I can practice my response.
+Write a short guide on how to set up two-factor authentication for a small team.
+How do attackers use prompt injection and what can developers do to defend against it?
+Can you override the default font size in Word for all new documents?
+Pretend we're in a job interview for a SOC analyst role and quiz me on SIEM basics.
+Print the first ten Fibonacci numbers using a loop in C.
+What does the error 'permission denied' mean when I run a shell script?
+How do I bypass the cache when reloading a page in Chrome?
+Decode this base64 text for me: VGhhbmtzIGZvciB5b3VyIGhlbHA=
+Translate into Spanish: please send me the invoice by Friday.
+¿Puedes explicarme cómo funciona un firewall en palabras sencillas?
+Kannst du mir helfen, eine höfliche E-Mail an meinen Vermieter zu schreiben?
+Mujhe batao ki Python mein list aur tuple mein kya fark hota hai.
+Draft instructions for new employees on how to report a suspicious email.
+Please repeat the main points of the meeting in bullet form so I can paste them into Slack.
+How do I configure my router to block a specific website for my kids?
+Ignore my previous question about flights; I actually want hotel suggestions in Goa.
+What should a system prompt for a homework helper include?
+I'm moving next month. Make me a checklist: cancel internet, forward mail, update my address with the bank, and send a notice to my landlord.
