@@ -1,0 +1,17 @@
+# Environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+.idea/
+
+# Generated at runtime or reproducible (python train_classifier.py)
+models/
+logs/
+reports/*
+!reports/clean_test_results.json
+
+# Hugging Face / OS caches
+.cache/
+.DS_Store
+Thumbs.db
